@@ -1,0 +1,30 @@
+.button-menu {
+    text-align: center;
+}
+
+.btn-squared-default {
+    width: 100px !important;
+    height: 100px !important;
+    font-size: 14px;
+    margin: 0 auto 5px auto;
+    padding: 0;
+    hyphens: auto;
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+}
+
+.btn-squared-default:hover {
+    border: 3px solid white;
+    font-weight: 800;
+}
+
+.btn-squared-default-plain {
+    width: 100px !important;
+    height: 100px !important;
+    font-size: 10px;
+}
+
+.btn-squared-default-plain:hover {
+    border: 0px solid white;
+}

@@ -1,0 +1,38 @@
+.intern-server-error {
+    margin-top: 15%;
+    margin-bottom: 15%;
+    text-align: center;
+    color: #4e4d4d;
+    position: relative;
+}
+
+.intern-server-error h1 {
+    font-size: 45px;
+}
+
+.intern-server-error h1 span {
+    color: #b42425;
+    font-weight: 700;
+}
+
+.intern-server-error p {
+    font-size: 20px;
+    margin-top: 1%;
+}
+
+.intern-server-error p a {
+    font-weight: 600;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 989px) {
+    .intern-server-error {
+        margin-top: 30%;
+    }
+}
+
+@media only screen and (max-width: 579px) {
+    .intern-server-error {
+        margin-top: 60%;
+    }
+}
