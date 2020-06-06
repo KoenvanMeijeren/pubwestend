@@ -3,4 +3,3 @@
 /vendor
 /config/dev_config.php
 /config/production_config.php
-composer.json
